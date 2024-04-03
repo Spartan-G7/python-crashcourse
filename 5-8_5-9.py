@@ -1,4 +1,4 @@
-user_names = ['john','madison','thomas','admin','connor']
+user_names = ['john','jack','bob','admin','connor']
 
 if user_names:
     pass
